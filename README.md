@@ -1,6 +1,9 @@
 # Obtain3D_open
 Modified stereo-microscopy 
 
+Cite work derived from the results of this code:
+B.P. Eftink, S.A. Maloy, Obtain3D_open, LANL, 2020
+
 © 2020. Triad National Security, LLC. All rights reserved.
 This program was produced under U.S. Government contract 89233218CNA000001 for Los Alamos
 National Laboratory (LANL), which is operated by Triad National Security, LLC for the U.S.
@@ -37,7 +40,13 @@ OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS SOFTWARE, EVEN IF
 ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
 
 
-
+Description:
 This computer code calculates the third dimension of information in tranmission electron micrographs using two images taken at different perspective of the same region. This is performed by a discrete-geometric approach that treats features as points, or series of points. Points correspond, but are not limited, to the center of cavities or precipitates, positions of irradiation black dot damage, positions along a dislocation line, or positions along where aninterface meets a free surface. Features can include dislocations, interfaces, cavities, precipitates, inclusions etc. The x, yand z coordinates of the points are output in a text file. The code also allows the user to visualize the features containing the points in three dimensions.
+
+References using code:
+1. B.P. Eftink, G.T. Gray III, S.A. Maloy, Stereographic Methods for 3D Characterization of Dislocations, Microscopy & Microanalysis, Volume 23, (2017) 
+2. X. Hu et al., Transmutation-induced precipitation in tungsten irradiated with a mixed energy neutron spectrum, Acta Materialia, Volume 165, (2019)
+3. K.G. Field, B.P. Eftink, C.M. Parish, S.A. Maloy, High-Efficiency Three-Dimensional Visualization of Complex Microstructures via Multidimensional STEM Acquisition and Reconstruction, Microscopy and Microanalysis, Volume 26, (2020)
+
 
 Instructions:
