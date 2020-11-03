@@ -1,5 +1,6 @@
 # Obtain3D_open
 Modified stereo-microscopy 
+eftink@lanl.gov
 
 Cite work derived from the results of this code:
 B.P. Eftink, S.A. Maloy, Obtain3D_open, LANL, 2020
