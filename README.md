@@ -1,5 +1,5 @@
 # Obtain3D_open
-Modified stereo-microscopy 
+Modified stereo-microscopy, example input files are shown project branches. 
 eftink@lanl.gov
 
 Cite work derived from the results of this code:
