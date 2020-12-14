@@ -49,6 +49,3 @@ References using code:
 1. B.P. Eftink, G.T. Gray III, S.A. Maloy, Stereographic Methods for 3D Characterization of Dislocations, Microscopy & Microanalysis, Volume 23, (2017) 
 2. X. Hu et al., Transmutation-induced precipitation in tungsten irradiated with a mixed energy neutron spectrum, Acta Materialia, Volume 165, (2019)
 3. K.G. Field, B.P. Eftink, C.M. Parish, S.A. Maloy, High-Efficiency Three-Dimensional Visualization of Complex Microstructures via Multidimensional STEM Acquisition and Reconstruction, Microscopy and Microanalysis, Volume 26, (2020)
-
-
-Instructions: Coming soon
