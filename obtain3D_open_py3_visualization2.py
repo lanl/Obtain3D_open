@@ -2,7 +2,7 @@ import math
 import os
 
 ########### starting working directory ########
-os.chdir("C:\\Users\\")
+os.chdir("C:\\Users\\252321\\Desktop\\000_Obtain3D_20220406\\")
 check_01 = 1
 ########################################
 ### choosing the folder to look for the files in ##
