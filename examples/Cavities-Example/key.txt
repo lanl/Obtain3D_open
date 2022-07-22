@@ -1,0 +1,10 @@
+x_tilt_1	-17.13
+x_tilt_2	-10.86
+y_tilt_1	0
+y_tilt_2	0
+scale_pixels/nm	1.9
+interfaces	0
+Spherical_particles_or_cavities	1
+view	1
+Number_markers_on_plot	0
+movie	0
