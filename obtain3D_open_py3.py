@@ -356,7 +356,7 @@ if view > 0.5 and movie < 0.5:
     
     mlab.gcf().scene.parallel_projection = True
     mlab.gcf().scene.show_axes = True
-
+    mlab.show()
 #################### Movie Mode ##########################
 
 if movie > 0.1 and view > 0.5:
